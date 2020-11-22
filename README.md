@@ -13,11 +13,11 @@ Fork of the [Restore old Google icons](https://chrome.google.com/webstore/detail
 
 ### Usage
 
-I'm not publishing this fork to the Chrome store, since it's for personal usage.  
-But if you'd like to use this fork, follow these steps:
+I'm not publishing this extension to the Chrome Web Store as it's a fork for personal usage.  
+But you can still use it by following these steps:
 
 1. Download the source code (e.g. clone or download latest release and unzip it)
-2. In Chrome, go to chrome://extensions/
+2. In Chrome, go to `chrome://extensions/` (In Brave, go to `brave://extensions/`)
 3. Enable "Developer mode"
 4. Click "Load unpacked" and select the directory with the extension's source code
 
