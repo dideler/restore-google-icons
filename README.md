@@ -1,6 +1,10 @@
 # restore-google-icons
 Recognizable tabs for Google services
 
+![Before](https://user-images.githubusercontent.com/497458/99908045-157cf180-2cd8-11eb-93bf-9b848e987f5c.png)
+![](https://media.giphy.com/media/rDb9zTgdfiPwQ/giphy.gif)
+![After](https://user-images.githubusercontent.com/497458/99908019-f3836f00-2cd7-11eb-917d-42d7dd6d2a5c.png)
+
 Fork of the [Restore old Google icons](https://chrome.google.com/webstore/detail/restore-old-google-icons/iellnmonjokmoagdlggagdmfjgpiahmb/related) extension.
 
 - Removes cruft (e.g. background script, popups, unused files)
@@ -9,8 +13,8 @@ Fork of the [Restore old Google icons](https://chrome.google.com/webstore/detail
 
 ### Usage
 
-I'm not going to publish this fork to the Chrome store, since I forked the original
-extension for personal usage. If you'd like to use this fork, follow these steps:
+I'm not publishing this fork to the Chrome store, since it's for personal usage.  
+But if you'd like to use this fork, follow these steps:
 
 1. Download the source code (e.g. clone or download latest release and unzip it)
 2. In Chrome, go to chrome://extensions/
